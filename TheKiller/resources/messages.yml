@@ -1,0 +1,23 @@
+m_version: 1
+
+#(EN) ENGLISH
+eng: true
+eng-default-prefix:"[Killer]"
+eng-killer: "killer"
+eng-killer-description: "activate/deactivate the killer's skill."
+eng-killer-help: "killer"
+eng-killer-deathmessage: "Someone was killed by the killer."
+
+#(KO) KOREAN
+kor: true
+kor-default-prefix:"[살인자]"
+kor-killer: "살인자"
+kor-killer-description: "살인자 능력을 활성화/비할성화 시킵니다."
+kor-killer-help: "살인자"
+kor-killler-deathmessage: "누군가가 살인자에 의해 사라졋다."
+kor-start: "시작"
+kor-start-description: "게임을 시작합니다."
+kor-start-help: "시작"
+kor-stop: "종료"
+kor-stop-description: "게임을 종료합니다."
+kor-stop-help: "종료"

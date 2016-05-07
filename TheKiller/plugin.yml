@@ -1,0 +1,19 @@
+name: TheKiller
+main: TheKiller\TheKiller
+version: 1.0-Beta
+author: Nether_Deth
+api:
+- 1.12.0
+- 1.13.0
+- 2.0.0
+
+permissions:
+ thekiller.command.allow:
+  descript: "KIller permission"
+  default: true
+ start.command.allow:
+  descript: "Start permission"
+  default: OP
+ stop.command.allow:
+  descript: "Stop permission"
+  default: OP
